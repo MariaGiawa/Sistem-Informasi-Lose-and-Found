@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Boogaloo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap");
+
+.card-lf {
+    background-color: beige;
+}
+.sub-jdl {
+    font-family: "Boogaloo", cursive;
+    letter-spacing: 0.2rem;
+    font-size: 2.5rem;
+}
+.form-group {
+    font-family: cursive;
+    font-weight: bold;
+}
+.kembali {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
+    font-family: monospace;
+}
+.sub-jdl1 {
+    font-family: "Boogaloo", cursive;
+    letter-spacing: 0.1rem;
+    font-size: 2rem;
+}
+.gbr-mdl {
+    width: 20rem;
+    height: 12rem;
+}
+
+.btn-add {
+    height: 100%;
+}

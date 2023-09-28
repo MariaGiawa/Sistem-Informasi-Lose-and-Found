@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merienda&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+body {
+    background-color: #d5c6bd;
+}
+
+.navbar {
+    background-color: #b49281;
+}
+hr {
+    color: #ac8181;
+    border-style: solid;
+    border-width: 1.5px;
+}
+footer {
+    font-family: "Irish Grover", cursive;
+}
+.jdl {
+    font-family: "Acme", sans-serif;
+}
+
+.bi-person-circle:hover {
+    color: black;
+}
+
+.navbar-brand {
+    font-family: "Merienda", cursive;
+    font-weight: 800;
+}
+
+.nav-item {
+    font-family: "Merienda", cursive;
+}
+.logout {
+    background-color: #b49281;
+}
+.gbr {
+    width: 100px;
+}
+.home {
+    font-family: "Lobster", cursive;
+    letter-spacing: 2px;
+}
+.card-home {
+    background-color: lightgray;
+}
+.text-justify {
+    text-align: justify;
+    text-indent: 2rem;
+    padding-bottom: 20px;
+}
+.list-group-item {
+    background-color: #d5c6bd;
+}
+.bi-whatsapp {
+    font-size: 2rem;
+}
